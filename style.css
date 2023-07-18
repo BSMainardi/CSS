@@ -1,0 +1,19 @@
+
+
+p{
+    Background-color : red;
+}
+h1{
+
+    Background-color : blue;
+} /* watch for errors*/
+#p1{background-color: blueviolet;}
+#p2{background-color: yellow;}
+#p3{background-color: aqua;}
+.fa-fa{color: coral; background-color: brown;}
+.fa-instagram{background-color: aquamarine;}
+.glyphicon-cloud{font-size: 150px;}
+.ab.md-48{  
+    font-size: 48px;
+    
+}

@@ -1,0 +1,22 @@
+img {
+    width: 500px;
+    height: 400px;
+    display: block;
+    margin:0 auto;
+}
+#cp{ font-size: 80px; text-align: center; 
+
+}
+#bsm{ font-size: large; font-weight: bold; text-align: center}
+
+#tu{font-size: large; font-style: italic; text-align: center}
+#cont{text-align: center; color: black; font-size: 15px; background-color: green;}
+#cont:hover{color: black    ; background-color: blue ;}
+#links{text-align: center}
+div {border: 1px solid;
+    width: 550px;
+    /*height: 800px;*/
+    text-align: center;
+    margin:0 auto;
+}
+    
